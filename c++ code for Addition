@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int sum;
+	int first_no,second_no;
+	cout<<"enter first_no";
+	cin>>first_no;
+	cout<<"enter second no";
+	cin>>second_no;
+	sum=first_no+second_no;
+	cout<<"the sum is="<<sum<<endl;
+	return 0;
+}
