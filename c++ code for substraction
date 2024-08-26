@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	float no1,no2;
+	float no1=2,no2=1;
 	cout<<"enter the no1";
 	cin>>no1;
 	cout<<"enter the no2";
