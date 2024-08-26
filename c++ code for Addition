@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int sum;
-	int first_no,second_no;
+	int first_no=25,second_no=28;
 	cout<<"enter first_no";
 	cin>>first_no;
 	cout<<"enter second no";
